@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d3a/classathena_1_1core_1_1AbstractLoader.html" title="athena::core::AbstractLoader" alt="" coords="5,31,215,57"/>
+<area shape="rect" id="node2" href="$d6/d3e/classathena_1_1core_1_1DummyLoader.html" title="athena::core::DummyLoader" alt="" coords="273,5,480,32"/>
+<area shape="rect" id="node3" href="$d5/d50/classathena_1_1loaders_1_1MemoryLoader.html" title="athena::loaders::MemoryLoader" alt="" coords="263,56,491,83"/>
+</map>
